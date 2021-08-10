@@ -26,6 +26,10 @@ public class largest_smallest
                 }
             }
         }
+        // OR 
+        // Using Arrays Function to sort
+        // Arrays.sort(array);
+
         System.out.println("The 2 largest element are "+ array[n-1]+ "  " + array[n-2]);
         System.out.println("The 2 smallest element are "+ array[0]+ "  " + array[1]);
     }
