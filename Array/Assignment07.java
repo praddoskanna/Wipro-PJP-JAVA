@@ -23,7 +23,10 @@ public class Duplicate
         HashSet<Integer> hs= new HashSet();
         for(int i:array)
         hs.add(i);
+        //iterator is class for iteration
         Iterator<Integer> i=hs.iterator();
+        //hasNext - next variable
+        //next-each variable print
         while(i.hasNext())
         System.out.println(i.next());
         
