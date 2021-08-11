@@ -3,7 +3,7 @@ Example)
 I/P:{12,34,12,45,67,89}
 O/P:{12,34,45,67,89}
 
-Using Hashset 
+Using Hashset(collection)
 */
 import java.util.*;
 public class Duplicate
