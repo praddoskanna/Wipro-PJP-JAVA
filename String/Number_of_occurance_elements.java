@@ -9,6 +9,7 @@ o-1
 w-1
 r-1
 d-1
+*/
 import java.util.*;
 
 public class reversearray
